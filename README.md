@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgarette0&layout=donut)](https://github.com/Jgarette0/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgarette0&layout=compact)
 ###
 
 <div align="left">

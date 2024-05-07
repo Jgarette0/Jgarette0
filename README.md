@@ -14,16 +14,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo" />
     <img src="https://skillicons.dev/icons?i=react" height="100" alt="react logo" />
     <img src="https://skillicons.dev/icons?i=laravel" height="100" alt="laravel logo" />
-    <img src="https://skillicons.dev/icons?i=go" height="100" alt="go logo" />
-    <img src="https://skillicons.dev/icons?i=zig" height="100" alt="zig logo" />
-    <img src="https://skillicons.dev/icons?i=rust" height="100" alt="rust logo" />
-    <img src="https://skillicons.dev/icons?i=fortran" height="100" alt="fortran logo" />
-    <img src="https://skillicons.dev/icons?i=ts" height="100" alt="typescript logo" />
-    <img src="https://skillicons.dev/icons?i=aws" height="100" alt="amazonwebservices logo" />
-    <img src="https://skillicons.dev/icons?i=c" height="100" alt="c logo" />
-    <img src="https://skillicons.dev/icons?i=ocaml" height="100" alt="ocaml logo" />
-    <img src="https://skillicons.dev/icons?i=azure" height="100" alt="azure logo" />
-    <img src="https://skillicons.dev/icons?i=elixir" height="100" alt="elixir logo" />
 </div>
 
 

@@ -1,11 +1,4 @@
 <h2 align="left">🧱Big things are built one brick at a time.</h2>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/DeBBINXN86r8Q/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -25,6 +18,11 @@
 ###
 
 <div align="left">
+  ###
+
+<img align="right" height="150" src="https://media.giphy.com/media/DeBBINXN86r8Q/giphy.gif"  />
+
+###
 </div>
 
 ###

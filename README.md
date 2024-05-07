@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=elixir" height="100" alt="elixir logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jgarette0.Jgarette0&left_text=commits-per-day"  />
@@ -54,9 +53,15 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/jelyan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jelyan&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+

@@ -45,7 +45,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="right">
   <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">

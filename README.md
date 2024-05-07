@@ -17,24 +17,28 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="100" alt="react logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="100" alt="laravel logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=go" height="100" alt="go logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=zig" height="100" alt="zig logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=rust" height="100" alt="rust logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=fortran" height="100" alt="fortran logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="100" alt="typescript logo"  />
-  <img width="15" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="100" alt="amazonwebservices logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=c" height="100" alt="c logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ocaml" height="100" alt="ocaml logo"  />
 </div>
 
 ###

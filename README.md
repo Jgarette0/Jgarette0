@@ -8,8 +8,21 @@
 </div>
 
 
-<div style="display: flex; width: 100%; justify-content: center;">
-<div align="left" style="width: 50%;">
+###
+
+<div align="right">
+    <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=3&unique=false" alt="Spotify recently played" />
+    </a>
+</div>
+
+
+###
+
+
+###
+
+<div align="left">
     <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo" />
     <img src="https://skillicons.dev/icons?i=react" height="100" alt="react logo" />
@@ -26,10 +39,6 @@
     <img src="https://skillicons.dev/icons?i=elixir" height="100" alt="elixir logo" />
 </div>
 
+###
 
-<div align="right">
-    <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=3&unique=false" alt="Spotify recently played" />
-    </a>
-</div>
-</div>
+

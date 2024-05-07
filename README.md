@@ -14,12 +14,14 @@
     <img width="12" />
   </div>
 
-</div>
+  <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgarette0&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgarette0&layout=compact)
 
-<div align="left">
+  <div align="left">
 
-  <img align="right" height="150" src="https://media.giphy.com/media/DeBBINXN86r8Q/giphy.gif"  />
+    <img align="right" height="150" src="https://media.giphy.com/media/DeBBINXN86r8Q/giphy.gif"  />
+
+  </div>
 
 </div>

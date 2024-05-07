@@ -7,14 +7,14 @@
   <img src="https://streak-stats.demolab.com?user=Jgarette0&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td align="right">
+    <td align="right" style="border: none; padding: 0;">
       <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=3&unique=false" alt="Spotify recently played" />
       </a>
     </td>
-    <td align="left">
+    <td align="left" style="border: none; padding: 0;">
       <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo" />
       <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo" />
       <img src="https://skillicons.dev/icons?i=react" height="100" alt="react logo" />

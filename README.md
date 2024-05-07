@@ -9,7 +9,7 @@
 
 
 <div style="display: flex; width: 100%; justify-content: center;">
-<div align="left">
+<div align="left" style="width: 50%;">
     <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo" />
     <img src="https://skillicons.dev/icons?i=react" height="100" alt="react logo" />

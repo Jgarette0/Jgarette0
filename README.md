@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jgarette0&locale=en&mode=daily&theme=default&hide_border=true&border_radius=20" height="200" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Jgarette0&locale=en&mode=daily&theme=default&hide_border=true&border_radius=20" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jgarette0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
@@ -51,12 +51,8 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Jgarette0.Jgarette0&left_text=commits-per-day"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jgarette0.Jgarette0&left_color=dodgerblue&left_text=commits-per-day"  />
+</div>
 
 ###

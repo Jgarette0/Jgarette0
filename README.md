@@ -1,21 +1,17 @@
+<br clear="both">
+
 <h1 align="center">✨Big things are built one brick at a time.</h1>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jgarette0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jgarette0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jgarette0&locale=en&mode=daily&theme=default&hide_border=true&border_radius=20" height="200" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jgarette0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/9o9dh1JRGThC1qxGTJ/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo"  />
@@ -45,23 +41,22 @@
   <img src="https://skillicons.dev/icons?i=elixir" height="100" alt="elixir logo"  />
 </div>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jgarette0.Jgarette0&left_text=commits-per-day"  />
-</div>
-
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Jgarette0.Jgarette0&left_text=commits-per-day"  />
 
+###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###

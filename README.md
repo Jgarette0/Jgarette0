@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo"  />
   <img width="0" />
@@ -44,7 +44,6 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=elixir" height="100" alt="elixir logo"  />
 </div>
-
 <div align="center">
   <a href="https://open.spotify.com/user/216vfppz35dbb363d3syvnl6a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vfppz35dbb363d3syvnl6a&count=3&unique=false" alt="Spotify recently played"  />

@@ -13,11 +13,11 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="100" alt="html5 logo"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=css" height="100" alt="css3 logo"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=js" height="100" alt="javascript logo"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=php" height="100" alt="php logo"  />
 </div>
 
@@ -25,22 +25,22 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="tailwindcss logo"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="100" alt="react logo"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=mysql" height="100" alt="mysql logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" height="100" alt="vercel logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="100" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vite" height="100" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="85" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="85" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="85" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="85" alt="vite logo"  />
 </div>
 
 ###
